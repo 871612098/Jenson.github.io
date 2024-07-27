@@ -1,11 +1,4 @@
----
-permalink: /
-title: "哈喽👋！欢迎来到我的个人主页!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# 哈喽👋！欢迎来到我的个人主页!
 
 在这里，你可以快速的了解我！下面就开始吧～
 
