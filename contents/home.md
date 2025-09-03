@@ -15,3 +15,6 @@
 
 #### Research Interests  
 图像融合；低光增强；轻量化网络.
+
+#### Hobbies and interests  
+• 摄影摄像   • 滑雪   • 航拍   • 视频剪辑   • 追剧
