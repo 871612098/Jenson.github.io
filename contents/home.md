@@ -1,20 +1,17 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+ Hi,您好！您可以叫我Jenson！我目前正在中国科学院大学沈阳计算技术研究所攻读硕士。通过主页，您可以快速了解我！如果您有任何问题，欢迎通过邮箱联系我！
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>zhansheng23@mails.ucas.ac.cn</code>  
+<code>19155353774@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**中国科学院大学**, 硕士，计算机技术 (2023 – 2026)  
+• GPA: 3.76/4.0  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**安徽师范大学**, 本科，计算机科学与技术 (2019 – 2023)  
+• GPA: 3.78/5.0  
 
 #### Research Interests  
-XX, XX, XX, XX.
+图像融合；低光增强；轻量化网络.
