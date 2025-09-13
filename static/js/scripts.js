@@ -1,7 +1,7 @@
 const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'awards', 'experience', 'publications'];
-document.getElementById('organization-md').innerHTML = "<p>Test organization content</p>";
+
 
 window.addEventListener('DOMContentLoaded', event => {
 
@@ -13,7 +13,7 @@ window.addEventListener('DOMContentLoaded', event => {
             offset: 74,
         });
     };
-
+    document.getElementById('organization-md').innerHTML = "<p>Test organization content</p>";
     // Collapse responsive navbar when toggler is visible
     const navbarToggler = document.body.querySelector('.navbar-toggler');
     const responsiveNavItems = [].slice.call(
