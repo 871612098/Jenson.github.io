@@ -1,7 +1,7 @@
 const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'awards', 'experience', 'publications'];
-
+document.getElementById('organization-md').innerHTML = "<p>Test organization content</p>";
 
 window.addEventListener('DOMContentLoaded', event => {
 
