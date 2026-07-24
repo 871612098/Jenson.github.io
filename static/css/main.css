@@ -109,4 +109,25 @@ section .main-body{
     }
 }
 
+/* 摄影作品卡片样式 */
+.photo-card {
+    margin: 0;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
 
+.photo-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12) !important;
+}
+
+.photo-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover; /* 图片等比例裁剪，保证排版整齐不变形 */
+}
+
+.photo-card figcaption {
+    font-style: normal;
+    line-height: 1.4;
+}
